@@ -2,4 +2,4 @@
 Paint app for the Intel Cyclone V FPGA
 
 Check out the video demo here
-![Video Demo](https://youtu.be/C2PEj7rRuYo)
+[![thumbnail](https://img.youtube.com/vi/C2PEj7rRuYo/0.jpg)](https://youtu.be/C2PEj7rRuYo)
